@@ -24,4 +24,8 @@ body{
     /* border-width: ; */
     background-color: aqua;
  }
- 
+p{
+    color: lightskyblue;
+    border: dotted black;
+    padding: 5px;
+}
